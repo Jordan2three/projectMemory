@@ -1,0 +1,4 @@
+const cardsAce = [aceSpades, aceHearts, aceClubs, aceDiamond];
+const cardsKings = [kingSpades, kingHearts, kingClubs, kingDiamond];
+const cardsQueen = [queenSpades, queenHearts, queenClubs, queenDiamond];
+const cardsJack = [jackSpades, jackHearts, jackClubs, jackDiamond];
