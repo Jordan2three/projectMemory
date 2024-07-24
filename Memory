@@ -9,3 +9,8 @@ function flipCards () {};
 
 
 function tallyPoints () {};
+
+
+function timer (if currentTimer >= 0) {
+  for let i = 300; i >= 0; i--;
+};
