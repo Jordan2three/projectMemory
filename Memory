@@ -5,7 +5,7 @@ const cardsJack = [jackSpades, jackHearts, jackClubs, jackDiamond];
 
 
 
-function flipCards () {};
+function flipCards (flipUp, flipDown) {};
 
 
 function tallyPoints () {};
