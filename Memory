@@ -8,7 +8,7 @@ const cardsJack = [jackSpades, jackHearts, jackClubs, jackDiamond];
 function flipCards (flipUp, flipDown) {};
 
 
-function tallyPoints () {
+function tallyPoints (player1, player2) {
   points++;
 };
 
