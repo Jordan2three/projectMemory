@@ -6,7 +6,7 @@ const cardsJack = [jackSpades, jackHearts, jackClubs, jackDiamond];
 
 
 function flipCards (flipUp, flipDown) {
-  if cardFlip1 && cardFlip2 is the same element then addPoints++;
+  if cardFlip1 && cardFlip2 is the same element then addPoints++ or tallyPoints;
 };
 
 
