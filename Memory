@@ -10,11 +10,12 @@ function cardMatching () {};
 function flipCards (flipUp, flipDown) {
   if cardFlip1 && cardFlip2 is the same element then addPoints++ or tallyPoints;
 
-  if number of cards flip >= 2 && cards don't match
+  /* if number of cards flip >= 2 && cards don't match
         then all cards back to flipDown position
   
   else
   no points awarded
+  */
 };
 
 
@@ -24,5 +25,6 @@ function multiPlayer (player1, player2) {
 
 
 function timer (if currentTimer >= 0) {
-  for let i = 300; i >= 0; i--;
+  for let i = 300; i >= 0; i--; 
+  // Need to find a way to ensure timer ticks down slowly
 };
