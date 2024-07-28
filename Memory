@@ -7,10 +7,16 @@ const cardsJack = [jackSpades, jackHearts, jackClubs, jackDiamond];
 
 function flipCards (flipUp, flipDown) {
   if cardFlip1 && cardFlip2 is the same element then addPoints++ or tallyPoints;
+
+  if number of cards flip >= 2 
+        then all cards back to flipDown position
+  
+  else
+  no points awarded
 };
 
 
-function tallyPoints (player1, player2) {
+function multiPlayer (player1, player2) {
   points++;
 };
 
