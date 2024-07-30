@@ -16,6 +16,8 @@ function flipCards (flipUp, flipDown) {
   else
   no points awarded
   */
+
+  // only two cards can be shown at any given time
 };
 
 
