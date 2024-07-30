@@ -8,7 +8,7 @@ function cardMatching () {};
 
 
 function flipCards (flipUp, flipDown) {
-  if cardFlip1 && cardFlip2 is the same element then addPoints++ or tallyPoints;
+  // if cardFlip1 && cardFlip2 is the same element then addPoints++ or tallyPoints;
 
   /* if number of cards flip >= 2 && cards don't match
         then all cards back to flipDown position
