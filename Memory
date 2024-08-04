@@ -4,6 +4,12 @@ const cardsQueen = [queenSpades, queenHearts, queenClubs, queenDiamond];
 const cardsJack = [jackSpades, jackHearts, jackClubs, jackDiamond];
 
 
+if (flippedCard1 === cardsAce && flippedCard2 === cardsAce) {
+  awardsPoints++;
+} else {
+  removePoints--;
+};
+
 function cardMatching () {};
 
 function randomShuffle () {};
