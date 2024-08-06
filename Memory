@@ -38,5 +38,5 @@ function timer (if currentTimer >= 0) {
   // Need to find a way to ensure timer ticks down slowly
 };
 
-
+function mouseOver () {};
 ________________________________________________________________________________________________________________________________________________________
