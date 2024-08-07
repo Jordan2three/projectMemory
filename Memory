@@ -45,15 +45,15 @@ function revealCards () {};
 
 
 
-let timer = 0;
+let timer = 10;
 
 setInterval(counter, 1000);
 
 function counter () {
-  if (timer === 5) {
+  if (timer === 0) {
     console.log("Game Over")
   } else {
-    // console.log(timer++);
+    // console.log(timer--);
   }
 };
 ________________________________________________________________________________________________________________________________________________________
