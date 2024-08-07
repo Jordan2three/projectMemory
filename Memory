@@ -42,4 +42,18 @@ function mouseOver () {};
 
 function revealCards () {};
 // if image clicked, then reveal other image. No more than two images can be revealed at a time. Award points if cards match
+
+
+
+let timer = 0;
+
+setInterval(counter, 1000);
+
+function counter () {
+  if (timer === 5) {
+    console.log("Game Over")
+  } else {
+    // console.log(timer++);
+  }
+};
 ________________________________________________________________________________________________________________________________________________________
