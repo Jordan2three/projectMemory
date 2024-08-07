@@ -39,4 +39,7 @@ function timer (if currentTimer >= 0) {
 };
 
 function mouseOver () {};
+
+function revealCards () {};
+// if image clicked, then reveal other image. No more than two images can be revealed at a time. Award points if cards match
 ________________________________________________________________________________________________________________________________________________________
